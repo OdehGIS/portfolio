@@ -22,7 +22,7 @@ banner="""
 
 import time  #importing time module 
 
-print(f"{banner} \n Welcome to Mobile Banking Applicion \n Developed by Serge Assi " ) 
+print(f"{banner} \n Welcome to Mobile Banking Applicion \n Developed by Brian Ode " ) 
 user_name=input("Enter your full name:   ").capitalize()
 
 phone_number=input("Enter your phone number with country code i.e +1234543275843:  ").strip()
